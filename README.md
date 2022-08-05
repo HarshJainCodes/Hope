@@ -14,6 +14,7 @@ Do you have what it takes to save Humanity?
 - **D** or **right** to move right
 - **space** to use booster
 
+## screenshots
 ![Title Screen](https://user-images.githubusercontent.com/37501580/183038453-d8d62c41-1ed7-467c-9d02-0c6e7d71ef9a.png)
 
 ![Portal](https://user-images.githubusercontent.com/37501580/183038554-e52fb1c3-3b4f-4d64-8b56-c47b4af83072.png)
